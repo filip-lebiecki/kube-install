@@ -1,5 +1,5 @@
 # kube-install
-Installing Kubernetes 1.30 on Ubuntu 24.04 LTS
+Installing Kubernetes 1.30 on Ubuntu 24.04 LTS, dual stack (IPv4 and IPv6)
 
 ### NODE1, NODE2, NODE3 (as root) ###
 ```
